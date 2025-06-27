@@ -1,0 +1,9 @@
+﻿user_id,age,gender,height_cm,weight_kg,activity_level,diet,goal
+1,24,Male,175,70,moderate,veg,weight_loss
+2,30,Female,160,58,sedentary,vegan,muscle_gain
+3,27,Male,180,80,active,non-veg,maintenance
+4,35,Female,165,72,light,veg,weight_loss
+5,22,Male,170,65,moderate,vegan,muscle_gain
+6,28,Female,155,50,sedentary,veg,weight_loss
+7,33,Male,178,85,very_active,non-veg,muscle_gain
+8,40,Female,162,70,light,veg,maintenance

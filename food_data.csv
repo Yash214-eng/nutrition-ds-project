@@ -1,0 +1,11 @@
+﻿food_name,calories,protein,fat,carbs,type
+Brown Rice,216,5,1.8,45,veg
+Quinoa,222,8,4,39,vegan
+Boiled Egg,78,6,5,0,non-veg
+Grilled Chicken,165,31,3.6,0,non-veg
+Mixed Veg Curry,150,4,6,20,veg
+Tofu Stir Fry,180,10,12,8,vegan
+Paneer Tikka,210,14,16,4,veg
+Sprout Salad,120,9,2,18,vegan
+Banana,89,1,0.3,23,vegan
+Oats Porridge,150,5,3,27,veg
